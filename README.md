@@ -3,6 +3,7 @@ title: "About Me"
 permalink: "/about/"
 layout: page
 ---
+![me on TORUS22](/photos/torus_badlands.jpg)
 
 ## Installation
 
