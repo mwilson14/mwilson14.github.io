@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](/photos/torus_badlands.jpg)
+![me on TORUS22](/photos/torus_badlands.jpg)
 
 
 ## MathJax
