@@ -17,7 +17,7 @@ NWP forecasts of severe storms depend heavily on having accurate model initial c
 
 
 
-<iframe src="https://uofnelincoln-my.sharepoint.com/personal/mwilson41_unl_edu/_layouts/15/Doc.aspx?sourcedoc={623cbcbf-673f-4967-bfe2-403f9d7cf228}&amp;action=embedview&amp;wdAr=1.3333333333333333" width="800px" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/NBaGgi45zn9AYh?hostedIn=slideshare&page=upload" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 As a companion project to the data assimilation work described above, I'm also conducting an observational case study of the two 8 June 2019 supercells to determine why the second storm was able to become tornadic in close proximity to where the first storm dissipated just a short while later. Using mobile mesonet, UAS, radiosonde, and P-3 Tail Doppler Radar (TDR) datasets collected by TORUS as well as observationally-available datasets, I've examined how mesoscale boundaries, rapid changes in the storm-scale environment, differences in CI forcing, storm mergers, and internal storm processes may have led to the drastic differences between the two supercells. My virtual AMS2022 poster on this work is above with some (hopefully) working animations in it!
 
