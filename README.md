@@ -17,9 +17,7 @@ NWP forecasts of severe storms depend heavily on having accurate model initial c
 
 ## 8 June 2019 Proximate Supercells Case Study
 
-
-
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/NBaGgi45zn9AYh?hostedIn=slideshare&page=upload" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+![case study summary slide](/photos/June8thcasestudy_web.png)
 
 As a companion project to the data assimilation work described above, I'm also conducting an observational case study of the two 8 June 2019 supercells to determine why the second storm was able to become tornadic in close proximity to where the first storm dissipated just a short while later. Using mobile mesonet, UAS, radiosonde, and P-3 Tail Doppler Radar (TDR) datasets collected by TORUS as well as observationally-available datasets, I've examined how mesoscale boundaries, rapid changes in the storm-scale environment, differences in CI forcing, storm mergers, and internal storm processes may have led to the drastic differences between the two supercells. My virtual AMS2022 poster on this work is above with some (hopefully) working animations in it!
 
