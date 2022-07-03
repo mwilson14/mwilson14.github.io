@@ -5,6 +5,8 @@ layout: post
 
 Now that TORUS is over and I've had some time to catch up on things in Lincoln, I thought I'd write up a quick summary of my highlights from participating in the 2022 field campaign. I was lucky enough to reprise my role from the 2019 field campaign as the near inflow mission lead, which means that I got to coordinate a team (usually) consisting of one UNL mobile mesonet and one CU vehicle to sample the variability in the near-storm environment using surface obs from the mobile mesonet and vertical profiles from windsondes launched by the CU team. This was slightly different from 2019, when the CU team was using a RAAVEN drone to collect their vertical profiles. I absolutely loved having this role in 2019, since it's usually where I'd be set up when chasing anyway, and I was excited to have it again this year.
 
+
+
 (add some 2019 photos here)
 
 ## 2022 Highlights
