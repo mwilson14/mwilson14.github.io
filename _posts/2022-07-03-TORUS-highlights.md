@@ -7,7 +7,7 @@ Now that TORUS is over and I've had some time to catch up on things in Lincoln, 
 
 
 
-![highlights from 2019](/photos/2019highlights.png)
+![highlights from 2019](/photos/2019highlight.png)
 
 ## 2022 Highlights
 
