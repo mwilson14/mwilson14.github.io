@@ -21,31 +21,31 @@ TORUS 2022 started with the UNL team doing weather briefings for a pattern in wh
 
 After having most of the 20th and the 21st to rest in Lincoln, we were on the road for what I though would be a fairly marginal supercell setup in the TX panhandle. Luckily for us, it turned out I was very wrong: 5/23 was our best case for the whole project, with a chaotic series of storm mergers consolidating into a cyclic supercell shrouded in West TX dust that produced 8 tornadoes near Morton, TX. In the near inflow team, the nicely-gridded road network allowed us to launch windsondes in a variety of storm-relative locations to sample variability within the dust-choked inflow sector. As the main storm emerged from the initial convective demolition derby following CI, it rapidly transitioned from having a mainly flat, featureless base to having a sculpted mesocyclone reminiscent of the 5/21/2016 Leoti, KS supercell. During our wanderings in the inflow, that structure was frequently visible looming over the plumes of dust in the inflow, and we were even able to catch a brief glimpse of one of the tornadoes while we were moving from one windsonde launch site to another.
 
-![Morton's first base](/photos/Morton1.png)
+![Morton's first base](/photos/Morton1.jpg)
 
 (The base of the initial Morton cell before the convective demolition derby)
 
-![The dust begins](/photos/Morton2.png)
+![The dust begins](/photos/Morton2.jpg)
 
 (A preview of our view for much of the day in Near Inflow: dust. LOTS of dust!)
 
-![Meso: first view](/photos/Morton3.png)
+![Meso: first view](/photos/Morton3.jpg)
 
 (Our view of the what emerged out of the dust as the 'dust' from the storm mergers settled: the south side of a beastly meso.)
 
-![Windsonde!](/photos/Morton4.png)
+![Windsonde!](/photos/Morton4.jpg)
 
 (A windsonde rapidly approaching said meso in ~50-60 mph inflow)
 
-![Structure!](/photos/Morton5.png)
+![Structure!](/photos/Morton5.jpg)
 
 (One more shot of the structure and appenaching wall of dust from that location.)
 
-![Meso](/photos/Morton6.png)
+![Meso](/photos/Morton6.jpg)
 
 (My best view of the whole meso a bit later--note the long, laminar inflow tail just above the dust to the right!)
 
-![Dusty doom](/photos/Morton7.png)
+![Dusty doom](/photos/Morton7.jpg)
 
 (The worst of the dust--at times visibility was nearly zero about two miles ahead of the meso and RFD)
 
