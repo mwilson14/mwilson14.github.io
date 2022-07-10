@@ -9,11 +9,15 @@ Now that TORUS is over and I've had some time to catch up on things in Lincoln, 
 
 ![highlights from 2019](/photos/2019highlight.png)
 
+Some highlights from 2019 (cycloniclally from top left) a marginal supercell on 5/18/19 in N. OK, an anticyclonic tornado beneath an impressive meso near Winona, KS on 6/8/19, another view of the 5/18 cell, the 6/8 cell between tornadoes.
+
 ## 2022 Highlights
 
 TORUS 2022 started with the UNL team doing weather briefings for a pattern in which opportunities for organized, supercellular convection were few and far between. From May 17th through the 19th, we pursued a plume of recycled moisture through two marginal supercell setups, one in northern KS and the other in southern MN. Although neither day produced a targetable storm, it was a good opportunity for the team to shake the dust off in preparation for better days down the road.
 
-(add some photos from that chunk of days)
+![highlights from 5/17 to 5/19](/photos/MN1highlight.png)
+
+Pretty clouds, rainbows, and one marginal attempt at a supercell in MN from 5/19.
 
 After having most of the 20th and the 21st to rest in Lincoln, we were on the road for what I though would be a fairly marginal supercell setup in the TX panhandle. Luckily for us, it turned out I was very wrong: 5/23 was our best case for the whole project, with a chaotic series of storm mergers consolidating into a cyclic supercell shrouded in West TX dust that produced 8 tornadoes near Morton, TX. In the near inflow team, the nicely-gridded road network allowed us to launch windsondes in a variety of storm-relative locations to sample variability within the dust-choked inflow sector. As the main storm emerged from the initial convective demolition derby following CI, it rapidly transitioned from having a mainly flat, featureless base to having a sculpted mesocyclone reminiscent of the 5/21/2016 Leoti, KS supercell. During our wanderings in the inflow, that structure was frequently visible looming over the plumes of dust in the inflow, and we were even able to catch a brief glimpse of one of the tornadoes while we were moving from one windsonde launch site to another.
 
