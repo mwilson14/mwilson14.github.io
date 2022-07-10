@@ -200,6 +200,5 @@ The next several days held a few surprises for TORUS. The 13th ended up being a 
 
 (Trees stripped of their leaves by wind-driven hail along I80 on the way back to Lincoln)
 
-(write up summary / things learned)
 
 
