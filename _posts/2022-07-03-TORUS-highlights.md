@@ -90,7 +90,7 @@ Our luck turned for the better on the 31st, with the intercept of two supercells
 
 TORUS was next drawn to the TX panhandle for a couple of marginal setups which didn't quite pan out. However, the UNL team was able to spend a couple of days in Amarillo fixing some vehicle issues and getting our fill of Whataburger and delicious TX BBQ. On the 4th, we attempted to deploy on what appeared to be a favorable environment for supercells provided a sustained storm could develop in the northern TX Panhandle...but what developed was not exactly sustained, prompting a great limerick from someone on the project in SASSI (TORUS's situational awareness software). On the 5th, TORUS had a difficult choice between two targets in KS, one along a cooking outflow boundary near Dodge City and another along the warm front along the NE border. We chose the southern target...and were rewarded with sunburn waiting in a parking lot in Dodge for CI that never happened. Eventually, we decided to make a run for the northern target, only for the only targetable supercell in it to fire out of our range in NE. It's almost like forecasting severe convection is... * difficult * or something (LOL).
 
-(add photos)
+![highlights from 6/1 to 6/5](/photos/AMAhighlight.png)
 
 June 6th began both a string of several better chase days and a surprisingly long stay in North Platte for TORUS. Despite the limited Sandhills road network, we were able to get good deployments on two crisp LP supercells near the SD border on the 6th. I also got to encounter one of my absolute favorite weather phenomena on this chase--HAIL FOG!! Behind the second storm, a gossamer layer of hail fog hugged the grassy waves of the Sandhills and briefly dropped visibility in some low spots.
 
