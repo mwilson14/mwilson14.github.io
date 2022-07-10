@@ -94,7 +94,21 @@ TORUS was next drawn to the TX panhandle for a couple of marginal setups which d
 
 June 6th began both a string of several better chase days and a surprisingly long stay in North Platte for TORUS. Despite the limited Sandhills road network, we were able to get good deployments on two crisp LP supercells near the SD border on the 6th. I also got to encounter one of my absolute favorite weather phenomena on this chase--HAIL FOG!! Behind the second storm, a gossamer layer of hail fog hugged the grassy waves of the Sandhills and briefly dropped visibility in some low spots.
 
-(add 6/6 photos)
+![First Sandhills cell](/photos/Sand1.jpg)
+
+(Our initial view of our first target cell)
+
+![Sandhills cell a bit later](/photos/Sand2.jpg)
+
+(Another view of the same cell a bit later)
+
+![Sandhills cell 2](/photos/Sand3.jpg)
+
+(Our second cell of the day--a bit more robust, but still pretty high-based with cold outflow)
+
+![Hail fog!](/photos/Sand4.jpg)
+
+(Hail fog flowing across the fields behind the second cell)
 
 The 7th was a similarly successful day, as we sampled two supercells in an upslope regime in NE CO. The first storm produced some decent structure and some rather convincing gustnadoes, and the second storm had a really neat inflow tail / likely streamwise vorticity current (SVC) above an outflow boundary it was ingesting from the earlier storm. Several TORUS teams collected observations of this boundary / SVC, which will hopefully lead to some interesting analysis down the road.
 
