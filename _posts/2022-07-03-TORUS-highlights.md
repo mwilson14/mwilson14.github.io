@@ -116,7 +116,25 @@ June 6th began both a string of several better chase days and a surprisingly lon
 
 The 7th was a similarly successful day, as we sampled two supercells in an upslope regime in NE CO. The first storm produced some decent structure and some rather convincing gustnadoes, and the second storm had a really neat inflow tail / likely streamwise vorticity current (SVC) above an outflow boundary it was ingesting from the earlier storm. Several TORUS teams collected observations of this boundary / SVC, which will hopefully lead to some interesting analysis down the road.
 
-(add 6/7 photos)
+![Sedgewick storm 1](/photos/Sedgewick1.jpg)
+
+(Our initial distant view od the Sedgewick, CO storm)
+
+![Sedgewick wall cloud](/photos/Sedgewick2.jpg)
+
+(The ragged wall cloud from CoMET1 as we ran north during our near inflow transect)
+
+![Sedgewick dust whirl](/photos/Sedgewick3.jpg)
+
+(Our view of the infamous dust whirl that launched a million tweets)
+
+![Sedgewick RFD cut](/photos/Sedgewick4.jpg)
+
+(A beautiful RFD cut on the same storm)
+
+![Sedgewick storm 2](/photos/Sedgewick5.jpg)
+
+(The tail cloud/SVC feature on storm 2 from CoMET1)
 
 A quiet pattern on the 8th allowed us to have a relaxing down day in North Platte before our next chase on the 9th. Once again, we were working on the approximately 4 paved roads in the Sandhills, but we still managed to collect data on two right-moving supercells (and one left-moving supercell between them). The left-mover produced a fascinating cyclonic gustnado (somewhat similar to the anticyclonic tornadoes occasionally found on the southern end of a RM supercell's RFD) which was witnessed by both the near inflow and left flank teams.
 
