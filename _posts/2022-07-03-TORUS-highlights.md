@@ -66,7 +66,7 @@ The next day's setup was an upslope play in eastern NM and far western TX, and f
 
 After resting on the 26th, TORUS staged to North Platte on the 27th for what we thought would be a couple of days of operations. Little did we realize that the UNL team would be out for 20 days straight! The first few days of this stretch were somewhat frustrating, with a bust on the 28th (but plenty of fun exploring a park in North Platte with a zoo and a train museum), CI near sunset in the Sandhills on the 29th which produced a supercell that we couldn't target, and a moderate risk on the 30th in southern MN which devolved into a rapidly-moving QLCS instead of discrete supercells. 
 
-![North Platte Nonsense](/photos/NorthPlattehighlight.jpg)
+![North Platte Nonsense](/photos/NorthPlattehighlight.png)
 
 (Some nonsense from North Platte and Norfolk, NE)
 
