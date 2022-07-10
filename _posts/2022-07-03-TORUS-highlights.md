@@ -72,7 +72,21 @@ After resting on the 26th, TORUS staged to North Platte on the 27th for what we 
 
 Our luck turned for the better on the 31st, with the intercept of two supercells (one marginally tornadic) on the OK-KS border near Arkansas City. These two storms had some briefly-spectacular structure, and I'd consider them pretty good specimens of the kind of structure you'd expect to see in a marginally tornadic environment characterized by LCLs which are juuuuuussst a bit too high and SRH which is juuussssst a bit too weak to sustain strong, tornadic low-level mesocyclones. 
 
-(add photos from the 31st)
+![First Ark City cell](/photos/ARK1.jpg)
+
+(The well-organized base and wall cloud of the first Arkansas City cell)
+
+![Ark City structure](/photos/ARK2.jpg)
+
+(Some nice striated structure on the first supercell.
+
+![RFD](/photos/ARK3.jpg)
+
+(A deep RFD cut on the same cell. Some of the lowerings back there deep in the occlusion looked mighty suspicious...)
+
+![Second Ark City cell](/photos/ARK4.jpg)
+
+(Pretty structure on the second Ark City supercell to end the day)
 
 TORUS was next drawn to the TX panhandle for a couple of marginal setups which didn't quite pan out. However, the UNL team was able to spend a couple of days in Amarillo fixing some vehicle issues and getting our fill of Whataburger and delicious TX BBQ. On the 4th, we attempted to deploy on what appeared to be a favorable environment for supercells provided a sustained storm could develop in the northern TX Panhandle...but what developed was not exactly sustained, prompting a great limerick from someone on the project in SASSI (TORUS's situational awareness software). On the 5th, TORUS had a difficult choice between two targets in KS, one along a cooking outflow boundary near Dodge City and another along the warm front along the NE border. We chose the southern target...and were rewarded with sunburn waiting in a parking lot in Dodge for CI that never happened. Eventually, we decided to make a run for the northern target, only for the only targetable supercell in it to fire out of our range in NE. It's almost like forecasting severe convection is... * difficult * or something (LOL).
 
