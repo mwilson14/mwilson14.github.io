@@ -138,7 +138,17 @@ The 7th was a similarly successful day, as we sampled two supercells in an upslo
 
 A quiet pattern on the 8th allowed us to have a relaxing down day in North Platte before our next chase on the 9th. Once again, we were working on the approximately 4 paved roads in the Sandhills, but we still managed to collect data on two right-moving supercells (and one left-moving supercell between them). The left-mover produced a fascinating cyclonic gustnado (somewhat similar to the anticyclonic tornadoes occasionally found on the southern end of a RM supercell's RFD) which was witnessed by both the near inflow and left flank teams.
 
-(add 6/8 photos)
+![RM 1](/photos/SH1.jpg)
+
+(Our first RM cell of the day, with a nice RFD cut and a bunch of cows)
+
+![LM 1](/photos/SH2.jpg)
+
+(The base and updraft of the left-mover we went after next)
+
+![RM 2](/photos/SH3.jpg)
+
+(The structure of our second RM cell, as we approached it along what quickly became a very hilly road along the top of a ridge)
 
 On the 10th, we drove up to Spearfish, SD to stage to a couple of days of potential supercells on the northern slopes of the Black Hills. Badlands National Park was on the way up there, and the whole UNL team was excited to stop and hike for a bit. Unfortunately, one of our scout vehicles got a flat tire on the way up, so we spent much of the day waiting for them and then trying to patch the tire at a gas station in Interior, SD. In the end, we did get to drive through the park and stop for a few photos. When combined with the time the UNL scout vehicle on the NRI project in 2018 got a flat tire in roughly the same area, the score is now Badlands 2-UNL scout tires 0.
 
