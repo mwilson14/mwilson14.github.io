@@ -152,11 +152,43 @@ A quiet pattern on the 8th allowed us to have a relaxing down day in North Platt
 
 On the 10th, we drove up to Spearfish, SD to stage to a couple of days of potential supercells on the northern slopes of the Black Hills. Badlands National Park was on the way up there, and the whole UNL team was excited to stop and hike for a bit. Unfortunately, one of our scout vehicles got a flat tire on the way up, so we spent much of the day waiting for them and then trying to patch the tire at a gas station in Interior, SD. In the end, we did get to drive through the park and stop for a few photos. When combined with the time the UNL scout vehicle on the NRI project in 2018 got a flat tire in roughly the same area, the score is now Badlands 2-UNL scout tires 0.
 
-(add June 9th photos)
+![Tire](/photos/BL1.jpg)
+
+(The sad-looking spare tire on Right Scout)
+
+![Badlands](/photos/BL2.jpg)
+
+(The UNL convoy moving through the Badlands)
 
 The 11th and 12th both produced good deployment days on well-organized supercells along the northern and western slopes of the Black Hills in SD, WY, and far SE MT. The 11th was my first visit to MT and it did not disappoint, with a beautiful supercell south of Alzada that produced my favorite structure of the project and behaved nicely with the one road we had to work with to allow us to sample the inflow sector well with windsondes. The 12th produced a beast of a supercell which roared into Belle Fourche, SD with 3-inch hail driven by 80-90mph winds. We sampled it just south of Belle Fourche, with the near inflow and right flank windsonde teams launching a series of windsondes as the storm approached (with our last sonde launch sampling the edge of the RFD outflow), and the right flank CoMET catching a 91-mph wind gust SE of Belle Fourche later on as the storm moved past town.
 
-(add 11th/12th photos)
+![Alzada initial view](/photos/AZ1.jpg)
+
+(Our initial view of the Alzada, MT supercell)
+
+![Alzada close-up](/photos/AZ2.jpg)
+
+(A closer view as light started to play on the structure)
+
+![Alzada whole updraft](/photos/AZ3.jpg)
+
+(A shot of the whole updraft from the southern end of our transect)
+
+![Alzada RFD](/photos/AZ4.jpg)
+
+(The beautiful striations in the base as the RFD neared our location on the north end of our run)
+
+![Alzada parting view](/photos/AZ5.jpg)
+
+(Our parting view of the Alzada storm heading into South Dakota)
+
+![Belle Fourche green](/photos/BF1.jpg)
+
+(A shot of the greenage on the fearsome Belle Fourche hailer. The photo really doesn't do the colors justice)
+
+![Belle Fourche hail](/photos/BF2.jpg)
+
+(Our view heading south ahead of the advancing wall of hail in the RFD)
 
 The next several days held a few surprises for TORUS. The 13th ended up being a bust, as cells quickly went linear in western SD. On the 14th, we staged down to Kearney, NE for a potential setup in KS the next day...and the atmosphere decided to welcome us to town that evening with a train of nocturnal supercells producing severe hail. Finally, the setup for the 15th in KS fell apart, so the UNL team headed back home to Lincoln to wrap up the project. Our trip down I80 took us through a swath of devastating hail damage from the previous night's supercells, with miles of crops flattened and trees stripped of leaved from large wind-driven hail.
 
