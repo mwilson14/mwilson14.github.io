@@ -52,7 +52,17 @@ After having most of the 20th and the 21st to rest in Lincoln, we were on the ro
 
 The next day's setup was an upslope play in eastern NM and far western TX, and found us following a cluster of cells from Hobbs, NM to Midland, TX as they repeatedly tried and failed to organize into a single dominant supercell. Although no individual cell lasted terribly long, several of the individual supercells briefly looked impressive before being disrupted by collisions with new cells going up in their inflow. Near inflow operations were considerably more difficult this day, due to limited roads, an absurd abundance of pumpjacks and associated powerlines, and even a spooky sign indicating the presence of poisonous gas! On the 25th, with a quiet pattern in storm for the next few days, we made the long drive back to Lincoln.
 
-(add photos from 5/24)
+![Poison gas](/photos/Hobbs1.jpg)
+
+( * Pulls up to launch windsonde * * sees sign * * NOPE NOPE NOPE * )
+
+![Hobbs meso](/photos/Hobbs2.jpg)
+
+(The best attempt at a consolidated meso north of Midland)
+
+![Hobbs meso 2](/photos/Hobbs3.jpg)
+
+(Another shot of that meso, along with...MORE DUST!)
 
 After resting on the 26th, TORUS staged to North Platte on the 27th for what we thought would be a couple of days of operations. Little did we realize that the UNL team would be out for 20 days straight! The first few days of this stretch were somewhat frustrating, with a bust on the 28th (but plenty of fun exploring a park in North Platte with a zoo and a train museum), CI near sunset in the Sandhills on the 29th which produced a supercell that we couldn't target, and a moderate risk on the 30th in southern MN which devolved into a rapidly-moving QLCS instead of discrete supercells. 
 
