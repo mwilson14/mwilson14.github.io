@@ -192,7 +192,13 @@ The 11th and 12th both produced good deployment days on well-organized supercell
 
 The next several days held a few surprises for TORUS. The 13th ended up being a bust, as cells quickly went linear in western SD. On the 14th, we staged down to Kearney, NE for a potential setup in KS the next day...and the atmosphere decided to welcome us to town that evening with a train of nocturnal supercells producing severe hail. Finally, the setup for the 15th in KS fell apart, so the UNL team headed back home to Lincoln to wrap up the project. Our trip down I80 took us through a swath of devastating hail damage from the previous night's supercells, with miles of crops flattened and trees stripped of leaved from large wind-driven hail.
 
-(add hail photos and hail damage photos)
+![Kearney hail](/photos/Hail1.jpg)
+
+(Hail from the nocturnal supercells that intercepted TORUS in Kearney)
+
+![Hail damage](/photos/Hail2.jpg)
+
+(Trees stripped of their leaves by wind-driven hail along I80 on the way back to Lincoln)
 
 (write up summary / things learned)
 
