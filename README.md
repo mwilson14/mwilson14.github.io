@@ -31,4 +31,4 @@ Supercell polarimetric signatures, including ZDR columns, ZDR arcs, KDP-ZDR sepa
 
 [spork_link]: https://github.com/mwilson14/SPORK-SPIN
 [spork_link_rt]: https://github.com/mwilson14/SPORK-Realtime
-[CV_link]: https://github.com/mwilson14/mwilson14.github.io/photos/MWILSON_CV2022.pdf
+[CV_link]: /photos/MWILSON_CV2022.pdf
