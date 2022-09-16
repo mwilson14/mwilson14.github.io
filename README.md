@@ -7,6 +7,8 @@ layout: page
 
 I'm currently a PhD candidate in the Earth and Atmospheric Science department at the University of Nebraska-Lincoln. My PhD research focuses on evaluating the impact of assimilating targeted UAS, mobile mesonet, and radiosonde observations from the Targeted Observations by Radars and UAS (TORUS) field campaign on storm-scale ensemble forecasts of supercell storms. Other research interests of mine include examining what dual-pol signatures of supercells can tell us about these storms and their environments, developing automated algorithms to identify and quantify these signatures quickly for use by researchers and forecasters, and exploring how small-scale variations in storm environments in space and time affect the evolution of nearby supercells. 
 
+[Here's a link to my CV!][CV_link]
+
 # Projects
 
 ## Assimilating TORUS Observations into a Storm-Scale Ensemble
@@ -29,3 +31,4 @@ Supercell polarimetric signatures, including ZDR columns, ZDR arcs, KDP-ZDR sepa
 
 [spork_link]: https://github.com/mwilson14/SPORK-SPIN
 [spork_link_rt]: https://github.com/mwilson14/SPORK-Realtime
+[CV_link]: https://github.com/mwilson14/mwilson14.github.io/MWILSON_CV2022.pdf
